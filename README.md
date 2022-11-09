@@ -1,4 +1,4 @@
-Applicacion hecha con React, javascript, bootstrap y api.
+Aplicacion hecha con React, javascript, bootstrap api y html.
 
 Podes ver todos los personajes de tu serie favorita, Rick and Morty.
 
